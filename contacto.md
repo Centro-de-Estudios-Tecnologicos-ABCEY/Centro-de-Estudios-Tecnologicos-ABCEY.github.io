@@ -1,3 +1,4 @@
-[Inicio](./index.html)
+[Inicio](./posts)
+
 
 
