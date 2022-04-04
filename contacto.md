@@ -1,4 +1,4 @@
-[Inicio](./posts)
+[Inicio](./_posts)
 
 
 
