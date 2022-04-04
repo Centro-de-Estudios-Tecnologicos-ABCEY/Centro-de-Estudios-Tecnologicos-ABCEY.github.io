@@ -1,3 +1,3 @@
-[Inicio](/.index.html)
+[Inicio](./index.html)
 
 
