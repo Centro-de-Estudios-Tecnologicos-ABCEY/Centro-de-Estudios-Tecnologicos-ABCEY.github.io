@@ -21,14 +21,5 @@ menu:
     link: /bachilleres
   - name: Contactanos
   link: /contacto
-    submenu:
-      - name: 
-        icon: 
-        link: 
-      - name: 
-        icon: 
-        link: 
-      - name: 
-        icon: 
-        link: 
+   
     
