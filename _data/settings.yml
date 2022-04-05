@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-91332049-1'
 
 menu: 
-  - name: Featured Escuelas
+  - name: Tipo de Escuelas
     submenu:
       - name: Gamer
         link: /projects/gamer
