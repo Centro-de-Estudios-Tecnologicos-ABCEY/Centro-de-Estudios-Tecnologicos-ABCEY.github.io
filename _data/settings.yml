@@ -7,18 +7,18 @@ disqus:
 google-ID: 'UA-91332049-1'
 
 menu: 
-  - name: Featured Projects
+  - name: Featured Escuelas
     submenu:
-      - name: MicroBam
-        link: /projects/microbam
+      - name: Gamer
+        link: /projects/gamer
       - name: OurLegacy
         link: /projects/ourlegacy
   - name: Posts
     link: /
   - name: Tags
     link: /tags
-  - name: About
-    link: /about
+  - name: Bachilleres
+    link: /bachilleres
   - name: Follow me
     submenu:
       - name: GitHub
