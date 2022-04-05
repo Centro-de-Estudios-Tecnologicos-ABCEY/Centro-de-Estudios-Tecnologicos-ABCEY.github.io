@@ -19,15 +19,16 @@ menu:
     link: /secundarias
   - name: Bachilleres
     link: /bachilleres
-  - name: Follow me
+  - name: Contactanos
+  link: 
     submenu:
-      - name: GitHub
-        icon: github
-        link: http://github.com/alainpham
-      - name: LinkedIn
-        icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
-      - name: Twitter
-        icon: twitter
-        link: https://twitter.com/koint
+      - name: 
+        icon: 
+        link: 
+      - name: 
+        icon: 
+        link: 
+      - name: 
+        icon: 
+        link: 
     
