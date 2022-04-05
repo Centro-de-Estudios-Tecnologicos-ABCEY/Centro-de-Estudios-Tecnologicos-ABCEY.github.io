@@ -11,8 +11,8 @@ menu:
     submenu:
       - name: Gamer
         link: /projects/gamer
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: Conducción
+        link: /projects/conducción
   - name: Posts
     link: /
   - name: Tags
