@@ -13,14 +13,14 @@ menu:
         link: /projects/gamer
       - name: Conducción
         link: /projects/conducción
+      - name: Contacto
+      link: /projects/contacto
   - name: Posts
     link: /
   - name: Secundarias
     link: /secundarias
   - name: Bachilleres
     link: /bachilleres
- name: Contacto
- link: /projects/contacto
  
   
    
